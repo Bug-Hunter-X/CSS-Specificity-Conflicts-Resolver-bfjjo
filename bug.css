@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected styles being applied.  For example, if you have an inline style that conflicts with an internal style sheet, the inline style will always take precedence, regardless of whether it's less specific. This can lead to difficult-to-debug styling issues if developers are not aware of the specificity rules.
